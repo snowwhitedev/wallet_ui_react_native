@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-gesture-handler] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dca70a7c4b2ec5dcd5fc5048bbf4347\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-linear-gradient] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04bb0c54ecc30a2bbc09734e01ed1409\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\66a21e5b2e2cb5ccf75744a998541cf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\38a8185708462a00c8433bd3bad55a73\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b22bf9fd079ce44a3e792618f66c2cf2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7fae67cf045bf6bcdfccea804ed37d20\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9f18b3de7bea6787393997338cdd23e7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ebe4c770a1c3c7c0aa108a3c0c13a94a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7ae87965273168cb617bc1b85e146dce\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\df56835bc6dd912dade2460900c17c7d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3247478f6c1305de2ccaa4b2974bd500\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\59d0893a2c894accbd065ef42101c340\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\6f6d649121282e9d22ac2fd5d081b52d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ff836c72916324b1678bc842e921ece8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b234f9829baaa6d285a72dd5bf6db781\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b736e3145261bdc3fb446fb600d49e90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\756b0711deff09fd0dfb198a4c9a90f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f41b23b539b1788c9a7102311c039d06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\befff0eb8503d6580f4910b6b85e0f94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1b98070820892ea21d59e4b22ea78a4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\d0e1a599114e4c2e759030d87c87f7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dd9bfb1bedb3766e623063081872d27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f43ff1a2481b26235a882b8b3dd6be0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\22afc99c7e26eb170744f9938902cbfe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\580bb412354e6ba0037ae755a2deafd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\eec553498fa0c91f31fb3ebdd7aad161\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3fa8f0de44521586c8137ef237fb338f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\0569a0b98af224e2613b1d5169242425\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\574db28f4474805ff65a8278ea3c2a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\a84a1d5cca3b595af1346ed7f46c8b25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\49582fefa9fbbffefcbb83c57daf4a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\41af9bebe9b3f76346c7c02d04554fb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\27c1095db93e1c60848192f79c711bc9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\129c136206766df36e6e1eadcbd2b897\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04fe80632ff5183660aeb28c2d38da91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9894a744e2c7bc6844acb0fe4891cf0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\aec204a65dddc6356456e9405ef0e502\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dca70a7c4b2ec5dcd5fc5048bbf4347\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dca70a7c4b2ec5dcd5fc5048bbf4347\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3247478f6c1305de2ccaa4b2974bd500\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3247478f6c1305de2ccaa4b2974bd500\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\eec553498fa0c91f31fb3ebdd7aad161\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\eec553498fa0c91f31fb3ebdd7aad161\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.walletdesign.MainActivity
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dca70a7c4b2ec5dcd5fc5048bbf4347\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dca70a7c4b2ec5dcd5fc5048bbf4347\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04bb0c54ecc30a2bbc09734e01ed1409\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04bb0c54ecc30a2bbc09734e01ed1409\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\66a21e5b2e2cb5ccf75744a998541cf0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\66a21e5b2e2cb5ccf75744a998541cf0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\38a8185708462a00c8433bd3bad55a73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\38a8185708462a00c8433bd3bad55a73\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b22bf9fd079ce44a3e792618f66c2cf2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b22bf9fd079ce44a3e792618f66c2cf2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7fae67cf045bf6bcdfccea804ed37d20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7fae67cf045bf6bcdfccea804ed37d20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9f18b3de7bea6787393997338cdd23e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9f18b3de7bea6787393997338cdd23e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ebe4c770a1c3c7c0aa108a3c0c13a94a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ebe4c770a1c3c7c0aa108a3c0c13a94a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7ae87965273168cb617bc1b85e146dce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\7ae87965273168cb617bc1b85e146dce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\df56835bc6dd912dade2460900c17c7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\df56835bc6dd912dade2460900c17c7d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3247478f6c1305de2ccaa4b2974bd500\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3247478f6c1305de2ccaa4b2974bd500\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\59d0893a2c894accbd065ef42101c340\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\59d0893a2c894accbd065ef42101c340\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\6f6d649121282e9d22ac2fd5d081b52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\6f6d649121282e9d22ac2fd5d081b52d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ff836c72916324b1678bc842e921ece8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\ff836c72916324b1678bc842e921ece8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b234f9829baaa6d285a72dd5bf6db781\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b234f9829baaa6d285a72dd5bf6db781\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b736e3145261bdc3fb446fb600d49e90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\b736e3145261bdc3fb446fb600d49e90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\756b0711deff09fd0dfb198a4c9a90f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\756b0711deff09fd0dfb198a4c9a90f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f41b23b539b1788c9a7102311c039d06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f41b23b539b1788c9a7102311c039d06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\befff0eb8503d6580f4910b6b85e0f94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\befff0eb8503d6580f4910b6b85e0f94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1b98070820892ea21d59e4b22ea78a4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1b98070820892ea21d59e4b22ea78a4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\d0e1a599114e4c2e759030d87c87f7ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\d0e1a599114e4c2e759030d87c87f7ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dd9bfb1bedb3766e623063081872d27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\4dd9bfb1bedb3766e623063081872d27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f43ff1a2481b26235a882b8b3dd6be0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\f43ff1a2481b26235a882b8b3dd6be0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\22afc99c7e26eb170744f9938902cbfe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\22afc99c7e26eb170744f9938902cbfe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\580bb412354e6ba0037ae755a2deafd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\580bb412354e6ba0037ae755a2deafd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\1ba6a29e5fb83a0e24f02696e8fc5d63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\eec553498fa0c91f31fb3ebdd7aad161\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\eec553498fa0c91f31fb3ebdd7aad161\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3fa8f0de44521586c8137ef237fb338f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\3fa8f0de44521586c8137ef237fb338f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\0569a0b98af224e2613b1d5169242425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\0569a0b98af224e2613b1d5169242425\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\574db28f4474805ff65a8278ea3c2a0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\574db28f4474805ff65a8278ea3c2a0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\a84a1d5cca3b595af1346ed7f46c8b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\a84a1d5cca3b595af1346ed7f46c8b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\49582fefa9fbbffefcbb83c57daf4a1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\49582fefa9fbbffefcbb83c57daf4a1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\41af9bebe9b3f76346c7c02d04554fb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\41af9bebe9b3f76346c7c02d04554fb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\27c1095db93e1c60848192f79c711bc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\27c1095db93e1c60848192f79c711bc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\129c136206766df36e6e1eadcbd2b897\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\129c136206766df36e6e1eadcbd2b897\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04fe80632ff5183660aeb28c2d38da91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\04fe80632ff5183660aeb28c2d38da91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9894a744e2c7bc6844acb0fe4891cf0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\9894a744e2c7bc6844acb0fe4891cf0f\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\aec204a65dddc6356456e9405ef0e502\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\mermaid\.gradle\caches\transforms-2\files-2.1\aec204a65dddc6356456e9405ef0e502\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\Mobile\ReactNativePage20191009\work\walletdesign\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:react-native-camera-kit] D:\Mobile\ReactNativePage20191009\work\walletdesign\node_modules\react-native-camera-kit\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-78
